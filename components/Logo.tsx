@@ -9,7 +9,7 @@ export default function Logo() {
           ratio={16 / 9}
           className="flex items-center justify-center"
         >
-          <div className="dark:filter dark:invert">OmniChat</div>
+          <div className="dark:text-white light:invert">OmniChat</div>
         </AspectRatio>
       </div>
     </Link>
